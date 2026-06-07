@@ -1,0 +1,5 @@
+celery[redis]>=5.4.0
+playwright>=1.44.0
+redis[hiredis]>=5.0.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
